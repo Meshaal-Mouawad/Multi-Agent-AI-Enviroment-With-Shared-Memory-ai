@@ -4,7 +4,8 @@
 
 It helps ChatGPT, Gemini, Codex, Copilot, Claude, DeepSeek, Kimi, Cascade, and other agents work from the same project context instead of repeatedly rediscovering the project.
 
-![mrAI shared memory architecture](assets/mrai_shared_memory_hero.png)
+
+![Shared Memory for Multi-Agent AI Projects](assets/92AFF291-B7A9-4BE1-A0D5-F17138DC47DF.png)
 
 ## Why this exists
 
@@ -63,7 +64,7 @@ Update .ai
 Next agent continues
 ```
 
-## Cheapkeeper Strategy Algorithm
+## Cheapkeeper Strategy Algorithm 😂
 
 Use cheaper/free agents first. Use expensive models only for hard diagnosis or final review.
 
